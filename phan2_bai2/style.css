@@ -1,0 +1,11 @@
+#result{
+    font-size: 50px;
+}
+body{
+    background-color: rgb(124, 185, 185);
+}
+@media screen and (max-width: 768px){
+    #result{
+        font-size: 20px;
+    }
+}
